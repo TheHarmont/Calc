@@ -83,9 +83,9 @@ using namespace Calc;
     System::Void Calc::MyForm::button12_Click(System::Object ^ sender,System::EventArgs ^ e) {
       /*   a = float->Parse(textBox1->Text);
        textBox1->Text->Clear();
-       count = 1;
+       count = 1;à
        textBox1->Text = a.ToString() + "*";
-       znak = true; */
+       znak = true; */   
     }
                                               
     System::Void Calc::MyForm::button16_Click(System::Object ^ sender,System::EventArgs ^ e) {
