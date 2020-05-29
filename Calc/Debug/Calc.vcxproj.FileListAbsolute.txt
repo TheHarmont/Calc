@@ -1,0 +1,5 @@
+E:\loftblog\Calc\Debug\Calc.vcxprojAssemblyReference.cache
+E:\loftblog\Calc\Debug\Calc.MyForm.resources
+E:\loftblog\Calc\Debug\Calc.vcxproj.GenerateResource.cache
+E:\loftblog\Calc\Debug\Calc.exe
+E:\loftblog\Calc\Debug\Calc.pdb
